@@ -23,4 +23,11 @@ Ce projet consiste en une analyse des éruptions volcaniques mondiales pour comp
   - Graphiques montrant les tendances et les impacts
 
 ## Captures d'écran :  
+### Graphiques des Tendances Volcaniques
 ![Aperçu des Ventes Mensuelles](Capture.JPG)
+
+### Synthèse des Éruptions Volcaniques
+![Aperçu des Ventes Mensuelles](Capture1.JPG)
+
+### Carte des Éruptions Volcaniques
+![Aperçu des Ventes Mensuelles](Capture2.JPG)
