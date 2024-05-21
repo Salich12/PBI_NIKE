@@ -9,9 +9,6 @@
 ## Année
 **2023/2024**
 
-## Project URL
-*(Ajoutez ici le lien vers votre projet)*
-
 ## Détail du projet
 Le projet **NIKE Store** offre un aperçu complet des performances de l'entreprise à travers plusieurs dimensions analytiques. Les principaux aspects couverts sont :
 
@@ -22,6 +19,10 @@ Le projet **NIKE Store** offre un aperçu complet des performances de l'entrepri
 - **Performance par magasin** : Comparaison des performances entre différents magasins pour identifier les points forts et les axes d'amélioration.
 
 Ce projet aide les responsables de NIKE à :
+- Comprendre les tendances de vente.
+- Identifier les produits les plus rentables.
+- Cibler les segments de clients appropriés.
+- Optimiser les opérations des magasins pour maximiser les revenus.
 
 - Comprendre les tendances de vente.
 - Identifier les produits les plus rentables.
