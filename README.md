@@ -18,3 +18,4 @@ Le projet **NIKE Store** offre un aperçu complet des performances de l'entrepri
 - **Performance par magasin** : Comparaison des performances entre différents magasins pour identifier les points forts et les axes d'amélioration.
 
 ## Captures d'écran :  
+![Aperçu des Ventes Mensuelles](Capture.JPG)
