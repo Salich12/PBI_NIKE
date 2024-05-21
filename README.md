@@ -1,4 +1,4 @@
-# Projet 1 : Volcano
+# Projet : Volcano
 
 ## Catégorie
 **Visualisation**
