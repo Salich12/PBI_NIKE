@@ -1,21 +1,26 @@
-# PBI_NIKE
+# Projet 1 : Volcano
 
-## Catégorie :
+## Catégorie
 **Visualisation**
 
-## Outils utilisés :
+## Outils utilisés
 **Power BI**
 
-## Année : 
+## Année
 **2023/2024**
 
-## Détail du projet : 
-Le projet **NIKE Store** offre un aperçu complet des performances de l'entreprise à travers plusieurs dimensions analytiques. Les principaux aspects couverts sont :
-- **Ventes mensuelles** : Analyse des ventes mois par mois pour identifier les tendances saisonnières et les périodes de forte activité.
-- **Répartition des ventes par produit** : Visualisation de la performance des différentes catégories de produits, permettant de voir quels articles se vendent le mieux.
-- **Rentabilité des produits** : Évaluation des marges bénéficiaires par produit pour déterminer les articles les plus rentables.
-- **Données démographiques des clients** : Analyse des caractéristiques démographiques des clients, aidant à mieux cibler les campagnes marketing.
-- **Performance par magasin** : Comparaison des performances entre différents magasins pour identifier les points forts et les axes d'amélioration.
+
+## Détail du projet
+Ce projet consiste en une analyse des éruptions volcaniques mondiales pour compléter un mémoire de fin d'étude en volcanologie. Les données sont disponibles via la NGDC sous forme de fichiers ou d'API. L'objectif est de créer des indicateurs pertinents (comme le nombre d'éruptions, leur impact humain, etc.) et des visualisations (cartes, graphiques) pour illustrer l'activité volcanique.
+
+### Objectifs du projet
+- Créer des indicateurs pertinents tels que :
+  - Nombre d'éruptions
+  - Impact humain (victimes, déplacements, etc.)
+  - Durée et intensité des éruptions
+- Fournir des visualisations informatives telles que :
+  - Cartes des éruptions volcaniques
+  - Graphiques montrant les tendances et les impacts
 
 ## Captures d'écran :  
 ![Aperçu des Ventes Mensuelles](Capture.JPG)
